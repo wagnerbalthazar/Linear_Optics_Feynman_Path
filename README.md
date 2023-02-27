@@ -41,7 +41,7 @@ title: Linear-Optical Feynman Paths (LOFP): code for strong simulation of Fock-s
 
 version: 1.0.0
 
-doi: 
+doi: 10.5281/zenodo.7681675
 
 date-released: 2023-02-27
 
@@ -51,4 +51,4 @@ We acknowledge the financial support of H2020-FETOPEN Grant PHOQUSING (GA no.: 8
 
 **Copyright:**
 Copyright (C) 2022  W.F.B
-Creative Commons Legal Code CC0 1.0 Universal
+Creative Commons Attribution 4.0 International
