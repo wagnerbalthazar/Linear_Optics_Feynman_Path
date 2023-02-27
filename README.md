@@ -1,4 +1,4 @@
-# Linear_Optics_Boson_Sampling_Feynman_Path
+# Linear_Optics_Feynman_Path
 
 In this repository we find a c++ code to simulate Linear Optical Boson Sampling using Feynman's formalism of Quantum Dynamics. 
 A pdf file is available for a naive understanding of the method and with a complete description of how to use the code. Read the pdf file 'Linear Optics Feynman Path'. The paper with a complete description of the method will be available soon.
