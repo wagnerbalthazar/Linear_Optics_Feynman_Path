@@ -11,7 +11,7 @@ Contact: wagner.balthazar@inl.int; wagner.balthazar@ifrj.edu.br
 **Prerequisites:
 ** This code was written using the following versions:
 * c++ 20;
-* The code runs in other early versions of c++, but the ‘<coroutine>’ library must be installed since Coroutine was added as standard only in c++20.
+* The code runs in other early versions of c++, but the Coroutine library must be installed since Coroutine was added as standard only in c++20.
 
 *** Brief description: ** *
 The modules supplied allow us to execute two different tasks (as described in our pre-print []):
