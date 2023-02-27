@@ -46,6 +46,8 @@ doi: 10.5281/zenodo.7681675
 date-released: 2023-02-27
 
 url: "https://github.com/wagnerbalthazar/Linear_Optics_Feynman_Path/"
+     
+url: "https://zenodo.org/record/7681675#.Y_zeRXbP2Uk"
 
 We acknowledge the financial support of H2020-FETOPEN Grant PHOQUSING (GA no.: 899544).
 
