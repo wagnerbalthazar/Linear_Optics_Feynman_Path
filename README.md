@@ -34,13 +34,18 @@ We run the code in Visual Studio, an integrated development environment (IDE). I
 **Citation**
 message: "If you use this software, please cite it as below."
 authors: Wagner F Balthazar; Ernesto F Galvão.
+  
 orcid: https://orcid.org/0000-0002-0135-1668; https://orcid.org/0000-0003-2582-9918
   
 title: Linear-Optical Feynman Paths (LOFP): code for strong simulation of Fock-state boson sampling
+
 version: 1.0.0
+
 doi: 
+
 date-released: 2023-02-27
-url: "https://github.com/wagnerbalthazar/Linear_Optics_Boson_Sampling_Feynman_Path/"
+
+url: "https://github.com/wagnerbalthazar/Linear_Optics_Feynman_Path/"
 
 We acknowledge the financial support of H2020-FETOPEN Grant PHOQUSING (GA no.: 899544).
 
