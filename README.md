@@ -31,6 +31,8 @@ with 1 photon per mode.
 To use the code you need to read the pdf file ‘Linear-Optical Feynman Paths (LOFP): C++ code for strong simulation of Fock-state boson sampling’. In section II we present the codes available. In section III we have presented the physics background. In section IV, there is a complete explanation of Running the code. In section V, we have presented the benchmark. Finally, the conclusions about the package.
 We run the code in Visual Studio, an integrated development environment (IDE). It is very easy to run the code in Visual Studio if you never worked with c++. You only need to create a project. Change the language for c++ 20. Open the source file available and run the code. Another option is to use a compiler and text editor of your preference. 
 
+We acknowledge the financial support of H2020-FETOPEN Grant PHOQUSING (GA no.: 899544).
+
 **Copyright:**
 Copyright (C) 2022  W.F.B
 Creative Commons Legal Code CC0 1.0 Universal
